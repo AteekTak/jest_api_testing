@@ -24,4 +24,8 @@ Documented in `BUGS.md`
 
 (You will document any issues or API bugs you discover here during your testing)
 
+- postman baser url and pdf base url are different.
+- both base url gives 404 error code
+- adding products give sometimes 200 sometimes 201 code
+  
 ---
